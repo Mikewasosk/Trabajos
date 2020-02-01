@@ -1,0 +1,1 @@
+Use el comando uname Para ver el sistema operativo linux 
